@@ -1,0 +1,10 @@
+;================================================================================================
+; LIP-68XX configuration information
+;================================================================================================
+
+[VOIP]
+line1_displayname ext_num
+line1_name ext_num
+line1_authname ext_num
+line1_password password
+
